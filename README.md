@@ -10,7 +10,7 @@ Olá! Sou um desenvolvedor front-end com aspirações de me tornar um desenvolve
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=css,express,figma,gulp,html,ai,jquery,nextjs,nodejs,postman,pug,py,sass,tailwind,ts,webpack,react,html5&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,express,figma,gulp,html,ai,jquery,nextjs,nodejs,postman,pug,py,sass,tailwind,ts,webpack,react,html5&perline=6)](https://skillicons.dev)
 
 ## :keyboard: Hard Skills:
 
