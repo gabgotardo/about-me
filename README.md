@@ -1,4 +1,4 @@
-# Olá Pessoal! :vulcan_salute:
+vtex# Olá Pessoal! :vulcan_salute:
 
 Olá! Sou um desenvolvedor front-end com aspirações de me tornar um desenvolvedor full-stack. Tenho um sólido conhecimento em diversas tecnologias web e estou sempre em busca de aprender e crescer na área de desenvolvimento.
 
@@ -10,7 +10,7 @@ Olá! Sou um desenvolvedor front-end com aspirações de me tornar um desenvolve
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,express,figma,gulp,html,ai,jquery,nextjs,nodejs,postman,pug,py,sass,tailwind,ts,webpack,react,html5&perline=2)](https://skillicons.dev)
 
 ## :keyboard: Hard Skills:
 
@@ -21,6 +21,3 @@ Olá! Sou um desenvolvedor front-end com aspirações de me tornar um desenvolve
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
-
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
